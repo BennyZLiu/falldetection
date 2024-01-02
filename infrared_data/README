@@ -1,1 +1,1 @@
-
+Data collected from an AMG8833 infrared sensor that was placed approximately 5 feet away from the fall. Bicubic interpolation was applied on the raw infrared data (8x8 pixels) to what it is now (48x48 pixels).
