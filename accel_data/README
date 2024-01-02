@@ -1,1 +1,1 @@
-
+3-axis data collected from a MPU9250 accelerometer every 0.5 seconds. Data was collected in the form of: date, x, y, z, x, y, z...x, y, z 14 times over a span of 7 seconds.
